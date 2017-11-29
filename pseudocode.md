@@ -1,7 +1,7 @@
 # myQuiz
 Quiz tentang pengetahuan umum dengan Javascript
 
-`
+```
 SIMPAN 'nama'
 SIMPAN 'score' sama dengan 0
 SIMPAN 'question'
@@ -39,4 +39,4 @@ IF 'nama' sama dengan string kosong
 	SIMPAN 'nama' sama dengan "Stranger"
 TAMPILKAN "hai 'nama' kamu berhasil menjawab 'score' dari 10 pertanyaan" dengan 'predikat'
 
-`
+```
